@@ -100,6 +100,7 @@ header {
   transition: transform 0.5s;
 }
 
+
 .nav::before {
   content: "";
   position: relative;
@@ -497,7 +498,7 @@ footer {
     position: absolute;
     width: 10%;
     height: 2px;
-    background-color: #fff;
+    background-color: black;
     left: 0;
     bottom: -3px;
   }
